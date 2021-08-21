@@ -7,7 +7,7 @@ All codes/ projects worked on for learning tasks are to be done in this director
   - Kushagra
 2. [Hardware Description Language](HDL)
   1. Verilog
-    - [Dhruv 2020](HDL/Verilog/2020_Dhruv)
+    + [Dhruv 2020](HDL/Verilog/2020_Dhruv)
 3. [High-Level Synthese](HLS)
 4. [Printed Circuit Board](PCB)
 
