@@ -4,7 +4,7 @@ All codes/ projects worked on for learning tasks are to be done in this director
 ## Directory Structure
 
 1. [Embedded C](Embedded%20C) 
-  - Kushagra
+  - [Kushagra 2021](Embedded%20C/2021_Kushagra)
 2. [Hardware Description Language](HDL)
   1. Verilog
     - [Dhruv 2020](HDL/Verilog/2020_Dhruv)
