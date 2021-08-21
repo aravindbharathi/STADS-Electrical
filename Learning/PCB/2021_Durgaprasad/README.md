@@ -2,7 +2,6 @@
 
 [Original Google Doc](https://docs.google.com/document/d/11V8R4Qwv2B22nqZ2oEq-6VUJGhk6oecQe_GyAkEhjhQ/edit)
 
-> 13-07-2021 (Discussion with Aravind and Rateesh)
 1. Avoid having traces in top layer below the Microprocessor
 2. Try to have traces originating from the centre of the microprocessor pins and going straight away from the pins.
 3. You can mount components on the lower layer for many applications as it gives more freedom.
